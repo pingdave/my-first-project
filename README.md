@@ -1,2 +1,2 @@
 # my-first-project
-Ben training session
+Ben's training session
